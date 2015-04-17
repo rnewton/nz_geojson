@@ -7,7 +7,7 @@
         "marker-color": "#ff2600",
         "marker-size": "medium",
         "marker-symbol": "airport",
-        "Name": ""
+        "name": "AKL"
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +23,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "YHA Auckland"
+        "name": "YHA Auckland"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +39,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Rock Solid Backpackers"
+        "name": "Rock Solid Backpackers"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +55,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Silver Fern Lodge"
+        "name": "Silver Fern Lodge"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +71,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Lodge In the City"
+        "name": "Lodge In the City"
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +87,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Cambridge Hotel and Backpackers"
+        "name": "Cambridge Hotel and Backpackers"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +103,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Accents on the Park"
+        "name": "Accents on the Park"
       },
       "geometry": {
         "type": "Point",
@@ -119,7 +119,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "The Laughing Kiwi Backpackers"
+        "name": "The Laughing Kiwi Backpackers"
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +135,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "The Lazy Shag"
+        "name": "The Lazy Shag"
       },
       "geometry": {
         "type": "Point",
@@ -151,7 +151,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "YMCA Christchurch"
+        "name": "YMCA Christchurch"
       },
       "geometry": {
         "type": "Point",
@@ -167,7 +167,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Neptunes International Backpackers"
+        "name": "Neptunes International Backpackers"
       },
       "geometry": {
         "type": "Point",
@@ -183,7 +183,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Montrose Backpackers"
+        "name": "Montrose Backpackers"
       },
       "geometry": {
         "type": "Point",
@@ -199,7 +199,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Black Sheep Backpackers"
+        "name": "Black Sheep Backpackers"
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +215,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Leviathan Hotel"
+        "name": "Leviathan Hotel"
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +231,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Empire Hotel and Backpackers"
+        "name": "Empire Hotel and Backpackers"
       },
       "geometry": {
         "type": "Point",
@@ -247,7 +247,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Criterion Hotel"
+        "name": "Criterion Hotel"
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +263,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Hotel Waterloo & Backpackers"
+        "name": "Hotel Waterloo & Backpackers"
       },
       "geometry": {
         "type": "Point",
@@ -279,7 +279,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Silverfern Backpackers"
+        "name": "Silverfern Backpackers"
       },
       "geometry": {
         "type": "Point",
@@ -295,7 +295,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Spa Lodge Backpackers"
+        "name": "Spa Lodge Backpackers"
       },
       "geometry": {
         "type": "Point",
@@ -311,7 +311,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Rainbow Lodge Backpackers"
+        "name": "Rainbow Lodge Backpackers"
       },
       "geometry": {
         "type": "Point",
@@ -327,7 +327,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Eagle's Nest Backpackers"
+        "name": "Eagle's Nest Backpackers"
       },
       "geometry": {
         "type": "Point",
@@ -343,7 +343,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Peppertree Lodge Backpackers"
+        "name": "Peppertree Lodge Backpackers"
       },
       "geometry": {
         "type": "Point",
@@ -358,8 +358,8 @@
       "properties": {
         "marker-color": "#00f900",
         "marker-size": "medium",
-        "marker-symbol": "star",
-        "Name": "Opononi"
+        "marker-symbol": "star-stroked",
+        "name": "Opononi"
       },
       "geometry": {
         "type": "Point",
@@ -374,8 +374,8 @@
       "properties": {
         "marker-color": "#00f900",
         "marker-size": "medium",
-        "marker-symbol": "star",
-        "Name": "Sea Kayaking Pahia"
+        "marker-symbol": "star-stroked",
+        "name": "Sea Kayaking Pahia"
       },
       "geometry": {
         "type": "Point",
@@ -391,7 +391,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Harbourside City Backpackers"
+        "name": "Harbourside City Backpackers"
       },
       "geometry": {
         "type": "Point",
@@ -407,7 +407,7 @@
         "marker-color": "#00f900",
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
-        "Name": "Mount Maunganui"
+        "name": "Mount Maunganui"
       },
       "geometry": {
         "type": "Point",
@@ -423,7 +423,7 @@
         "marker-color": "#0433ff",
         "marker-size": "medium",
         "marker-symbol": "circle-stroked",
-        "Name": "Kina Backpackers"
+        "name": "Kina Backpackers"
       },
       "geometry": {
         "type": "Point",
@@ -439,7 +439,7 @@
         "marker-color": "#00f900",
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
-        "Name": "Auckland Domain"
+        "name": "Auckland Domain"
       },
       "geometry": {
         "type": "Point",
@@ -455,7 +455,7 @@
         "marker-color": "#00f900",
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
-        "Name": "Mount Eden"
+        "name": "Mount Eden"
       },
       "geometry": {
         "type": "Point",
@@ -471,7 +471,7 @@
         "marker-color": "#00f900",
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
-        "Name": "Auckland Harbour"
+        "name": "Auckland Harbour"
       },
       "geometry": {
         "type": "Point",
@@ -487,7 +487,7 @@
         "marker-color": "#00f900",
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
-        "Name": "Rotorua Museum"
+        "name": "Rotorua Museum"
       },
       "geometry": {
         "type": "Point",
@@ -503,7 +503,7 @@
         "marker-color": "#00f900",
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
-        "Name": "Lake Rotorua"
+        "name": "Lake Rotorua"
       },
       "geometry": {
         "type": "Point",
@@ -519,7 +519,7 @@
         "marker-color": "#00f900",
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
-        "Name": "Mud Pools"
+        "name": "Mud Pools"
       },
       "geometry": {
         "type": "Point",
@@ -535,7 +535,7 @@
         "marker-color": "#00f900",
         "marker-size": "medium",
         "marker-symbol": "star-stroked",
-        "Name": "Tamaki Maori Village"
+        "name": "Tamaki Maori Village"
       },
       "geometry": {
         "type": "Point",
