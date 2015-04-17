@@ -1,0 +1,549 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2600",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "Name": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -185.20936489105225,
+          -37.004369096518346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "YHA Auckland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -185.23723840713498,
+          -36.8568706894256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Rock Solid Backpackers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -183.74735713005063,
+          -38.137989019950496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Silver Fern Lodge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -183.92252683639524,
+          -38.68708420624213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Lodge In the City"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -185.2231755852699,
+          -41.29564326640935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Cambridge Hotel and Backpackers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -185.21728545427322,
+          -41.295316806102704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Accents on the Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -186.7151141166687,
+          -41.27573224517564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "The Laughing Kiwi Backpackers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -186.98934853076935,
+          -41.11650830558932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "The Lazy Shag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -186.32059067487717,
+          -42.39697502342466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "YMCA Christchurch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -187.3721480369568,
+          -43.532301519079006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Neptunes International Backpackers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -188.7955883145332,
+          -42.44758549523895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Montrose Backpackers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -189.81683671474457,
+          -43.389713468940606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Black Sheep Backpackers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -191.33501529693604,
+          -45.03434705851854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Leviathan Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -189.49411064386368,
+          -45.876486282428296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Empire Hotel and Backpackers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -189.03070002794263,
+          -45.101365738698085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Criterion Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -186.04299545288086,
+          -41.51105986670871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Hotel Waterloo & Backpackers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -185.2197852730751,
+          -41.28024545872982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Silverfern Backpackers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -185.2410900592804,
+          -36.85358703531364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Spa Lodge Backpackers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -183.74975234270096,
+          -38.139824371848356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Rainbow Lodge Backpackers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -183.9234924316406,
+          -38.68367565396396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Eagle's Nest Backpackers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -184.72389847040176,
+          -37.77998579565196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Peppertree Lodge Backpackers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -185.90556979179382,
+          -35.285862127855424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "Name": "Opononi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -186.63363933563232,
+          -35.53747339089605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "Name": "Sea Kayaking Pahia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -185.90571999549866,
+          -35.27451130655701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Harbourside City Backpackers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -183.83005499839783,
+          -37.6837948544095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "Name": "Mount Maunganui"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -183.82899284362793,
+          -37.630139316267964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0433ff",
+        "marker-size": "medium",
+        "marker-symbol": "circle-stroked",
+        "Name": "Kina Backpackers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -184.92812991142273,
+          -36.78885525690645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "Name": "Auckland Domain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -185.22543668746948,
+          -36.861613496317595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "Name": "Mount Eden"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -185.2356505393982,
+          -36.877578067346285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "Name": "Auckland Harbour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -185.23805379867554,
+          -36.841850574776956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "Name": "Rotorua Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -183.74107003211975,
+          -38.13576333014369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "Name": "Lake Rotorua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -183.735533952713,
+          -38.1335860968068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "Name": "Mud Pools"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -183.75415921211243,
+          -38.13592366646501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00f900",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked",
+        "Name": "Tamaki Maori Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -183.69441032409668,
+          -38.24611783255397
+        ]
+      }
+    }
+  ]
+}
